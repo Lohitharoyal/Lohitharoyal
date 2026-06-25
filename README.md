@@ -1,64 +1,35 @@
 # Hi there 👋, I'm Peddagaddam Lohitha
-### Data Analytics Enthusiast | Python | SQL | Power BI | Machine Learning
 
-🎓 B.Tech in Electronics and Communication Engineering (2025) from RGUKT Nuzvid.
+### Data Analytics | Machine Learning | Autonomous Systems | Python | SQL
 
-🔍 Passionate about Data Analytics, Business Intelligence, and Machine Learning with hands-on experience in Python, SQL, Power BI, and Data Visualization.
+Engineering graduate with a strong interest in Data Analytics, Machine Learning, Artificial Intelligence, and Autonomous Systems. I enjoy solving real-world problems through data-driven solutions, intelligent systems, and software development.
 
-🔬 Former Research & Development Intern at TiHAN, IIT Hyderabad, contributing to autonomous driving research through requirement analysis, workflow documentation, and data quality improvement.
+🔬 **Research & Development Intern – TiHAN, IIT Hyderabad**
+
+* Contributed to autonomous vehicle research and development projects.
+* Worked on LLM-based autonomous driving systems for decision-making and vehicle control.
+* Developed ROS2-based workflows for sensor integration and data collection.
+* Performed image annotation, segmentation, and dataset preparation for AI model development.
+* Implemented trajectory tracking and Model Predictive Control (MPC) algorithms.
+* Worked with GNSS, RTK-GNSS, IMU sensor fusion, and localization systems.
+* Built tools for hyperspectral image processing, visualization, and data analysis.
+* Worked extensively in Linux and ROS2 environments.
 
 ## 🚀 Projects
 
-### 📊 Insurance Analysis Dashboard
+### Diabetes Detection Using Machine Learning
+
+* Developed a diabetes prediction system using Python and Scikit-Learn.
+* Applied data preprocessing, feature scaling, model training, and performance evaluation.
+* Implemented K-Nearest Neighbors (KNN) classification for prediction.
+
+### Insurance Analysis Dashboard
 
 * Built interactive dashboards using Power BI, SQL, and MySQL.
-* Generated business insights from insurance policy data.
-* Automated reporting and data validation workflows.
+* Generated business insights through data visualization and reporting.
+* Automated data validation and reporting workflows.
 
-### 🩺 Diabetes Detection Using Machine Learning
+## 🛠️ Technical Skills
 
-* Developed a diabetes prediction model using Python and Scikit-Learn.
-* Applied data preprocessing, feature scaling, and KNN classification.
-* Evaluated model performance using accuracy metrics.
-
-## 🛠️ Skills
-
-**Languages**
-
-* Python
-* SQL
-
-**Data Analytics**
-
-* Power BI
-* Excel
-* Data Visualization
-* Data Cleaning
-
-**Libraries**
-
-* Pandas
-* Scikit-Learn
-* Matplotlib
-
-**Concepts**
-
-* Machine Learning
-* OOP
-* Computer Networks
-* Linux Basics
-
-## 🌱 Currently Learning
-
-* Advanced Data Analytics
-* Machine Learning
-* Business Intelligence
-* Power BI Dashboard Development
-
-## 📫 Connect With Me
-
-* LinkedIn: [www.linkedin.com/in/peddagaddam-lohitha](http://www.linkedin.com/in/peddagaddam-lohitha)
-* Email: [lohithapeddagaddam@gmail.com](mailto:lohithapeddagaddam@gmail.com)
-
-⭐ Open to Data Analyst, Business Analyst, Power BI Developer, and Entry-Level Software Opportunities.
+`Python` `SQL` `Power BI` `Excel` `Pandas` `Matplotlib` `Scikit-Learn` `Machine Learning` `Data Analytics` `Data Visualization` `Business Intelligence` `LLM Applications` `Image Annotation` `Image Segmentation` `ROS2` `MPC` `Sensor Fusion` `GNSS` `RTK-GNSS` `IMU` `Trajectory Tracking` `AWS` `Git` `GitHub` `Linux` `VS Code` `PyCharm` `OOP` `DSA` `Computer Networks` `TCP/IP` `Operating Systems`
 
